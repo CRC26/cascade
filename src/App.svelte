@@ -12,8 +12,8 @@
     <li> Student Name: Cara Cahill </li> 
     <li> Student Number: 20099855</li>
     <li> Project Description: Cascade is a web application developed as a final year project for the SETU HDIP in computer science. 
-    Virtue aims to streamline communication and payments between primary schools and parents with accessibility and financial 
-    constraints in mind. Virtue will work to remove the numerous mobile applications needed for communication and payments
+    Cascade aims to streamline communication and payments between primary schools and parents with accessibility and financial 
+    constraints in mind. Cascade will work to remove the numerous mobile applications needed for communication and payments
     between schools and parents.</li>
     </div>
   </div>
